@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>XDA</title>
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+</head>
+
+<body>
+    <form id="form" method="post">
+        <div class="card">
+            <div class="header">
+                <div class="logo">
+                    <img src="assests/logo.png" width="160px">
+                </div>
+                <h1>XDA Thread Template Generator</h1>
+            </div>
+            <div class="form">
+                <div class="container">
+                    <div class="input">
+                        <input type="text" id="device_name" placeholder="Device Name" required>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="device_codename" placeholder="Device Codename" required>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="input">
+                        <input type="text" id="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="bugs" placeholder="Bugs">
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="input">
+                        <input type="text" id="xda_url" placeholder="Your XDA Profile URL" required>
+                    </div>
+                    <div class="input">
+                        <input type="text" id="donate_url" placeholder="Your Donate URL">
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="input">
+                        <input type="text" id="screenshot_album_url" placeholder="Screenshot Album URL">
+                    </div>
+                    <div class="input">
+                        <input type="text" id="kernel_source_url" placeholder="Kernel Source URL" required>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="input">
+                        <span id="copied"></span>
+                    </div>
+
+                    <div class="input">
+                        <button type="submit" id="generate">Generate</button>
+                    </div>
+                </div>
+            </div>
+            <div class="output">
+                <textarea readonly onclick="this.focus();this.select()" id="output"></textarea>
+            </div>
+        </div>
+    </form>
+
+    <p class="footer">Made with ♥ by <a href="https://github.com/hugwalk">Hugwalk</a> and <a href="https://github.com/coin3x">coin3x</a></p>
+
+    <script src="assests/template.js "></script>
+    <script src="assests/replacer.js "></script>
+
+</body>
+
+</html>

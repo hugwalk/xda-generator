@@ -1,3 +1,5 @@
+    /***Page sizing and fonts***/
+    
     html,
     body {
         width: 100%;
@@ -14,6 +16,7 @@
         border-radius: 8px;
         border: 1px solid #dadce0;
     }
+    /***Header part***/
     
     .header {
         width: 100%;
@@ -33,6 +36,7 @@
         font-family: "Google Sans", Roboto;
         font-weight: 400;
     }
+    /***Form part***/
     
     .form {
         padding: 24px 0 0;
@@ -135,6 +139,7 @@
         font-weight: 500;
         padding: 12px 0;
     }
+    /***For mobile devices***/
     
     @media only screen and (max-width: 601px) {
         .card {
@@ -175,6 +180,9 @@
             padding: 0;
             font-size: 8px;
         }
+    }
+    /***Scroll Bar (From Google)***/
+    
      ::-webkit-scrollbar {
         height: 16px;
         overflow: visible;

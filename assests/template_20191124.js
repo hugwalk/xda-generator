@@ -63,7 +63,7 @@ var template = `[CENTER]
 [SIZE="3"][B]DO NOT FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
 
 [img]https://i.imgur.com/YtvYmxb.png[/img]
-1. Reboot to Recovery
+[SIZE="3"]1. Reboot to Recovery
 2. Download the proper flashable ZIP for your device
 3. Wipe Data/Cache/System when coming from non-AOSP ROMs
 4. Flash the ROM
@@ -71,10 +71,7 @@ var template = `[CENTER]
 6. Reboot to System
 7. Reboot to Recovery
 8. Flash Magisk (Optional)
-9. Reboot to System
-
-[URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/3EYXY4z.png[/img][/URL]
-[URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/UfrpkUs.png[/img][/URL]
+9. Reboot to System[/SIZE]
 
 [URL="##DONATE_URL##"][img]https://i.imgur.com/nkJHit6.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/AteOLUU.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/8cQbEUV.png[/img][/URL]
  

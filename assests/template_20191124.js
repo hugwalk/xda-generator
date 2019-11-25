@@ -11,7 +11,16 @@ var template = `[CENTER]
 */[/CODE]
 
 [img]https://i.imgur.com/qE4kqsj.png[/img]
-[SIZE="3"]Pixel UI, Customization and More. We Are Evolution X![/SIZE]
+[CENTER][SIZE="5"][COLOR="#0060FF"][B]Living, Breaking, Keep Evolving. [/B][/COLOR][/SIZE]
+[SIZE="3"]Pixel UI, customization and more, we are Evolution X!
+
+[B]- Team Evolution X - [/B]
+@[URL="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=9008281"]peaktogoo[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL]
+
+[I]Reach us on Twitter! [URL="https://twitter.com/EvolutionXROM"]@EvolutionXROM[/URL][/I][/SIZE][/CENTER]
 
 [img]https://i.imgur.com/RgqrlpK.png[/img]
 [HIDE]

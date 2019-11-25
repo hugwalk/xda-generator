@@ -73,8 +73,13 @@ var template = `[CENTER]
 8. Flash Magisk (Optional)
 9. Reboot to System[/SIZE]
 
+[URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/N3C09Do.png[/img][/URL]
+[URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/oNEPBFj.png[/img][/URL]
 [URL="##DONATE_URL##"][img]https://i.imgur.com/nkJHit6.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/AteOLUU.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/8cQbEUV.png[/img][/URL]
- 
+
+[SIZE="1"][URL="##SCREENSHOT_ALBUM_URL##"]Screenshots[/URL] / [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"]Download[/URL]
+[URL="##DONATE_URL##"]Donate me![/URL] / [URL="https://t.me/EvolutionX"]Official Chat[/URL] / [URL="https://t.me/EvolutionX##DEVICE_CODENAME##"]Device Support[/URL][/SIZE]
+
 [hr][/hr]
 
 [img]https://i.imgur.com/LU9gsrQ.png[/img][/CENTER]

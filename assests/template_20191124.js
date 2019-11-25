@@ -1,7 +1,14 @@
 var template = `[CENTER]
 [IMG]https://raw.githubusercontent.com/Evolution-X/platform_manifest/pie/EvoBanner.png[/IMG]
 [SIZE="5"][b][color=#0060FF]Evolution X 3.3 for the ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
- 
+[CODE]/*
+* Your warranty is void. Or vaild, probably?
+*
+* I am not responsible for bricked devices, dead SD cards, Ebola-tion X,
+* thermonuclear war, or the current economic crisis caused by you following 
+* these directions. YOU are choosing to make these modificiations, and if 
+* you point your finger at me for messing up your device, I will LMAO at you.
+*/[/CODE]
 
 [img]https://i.imgur.com/qE4kqsj.png[/img]
 [SIZE="3"]Pixel UI, Customization and More. We Are Evolution X![/SIZE]

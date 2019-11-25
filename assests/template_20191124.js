@@ -79,6 +79,7 @@ var template = `[CENTER]
 [SIZE="3"][B]DO NOT FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
 
 [img]https://i.imgur.com/u5tIlfT.png[/img]
+[SIZE="5"][B]First Time Install / Clean Flash[/B][/SIZE]
 [SIZE="3"]1. Reboot to Recovery
 2. Download the proper flashable ZIP for your device
 3. Wipe Data/Cache/System when coming from non-AOSP ROMs
@@ -87,11 +88,17 @@ var template = `[CENTER]
 6. Reboot to System
 7. Reboot to Recovery
 8. Flash Magisk (Optional)
-9. Reboot to System[/SIZE]
+9. Reboot to System and #KeepEvolving[/SIZE]
 
 [URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/N3C09Do.png[/img][/URL]
 [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/oNEPBFj.png[/img][/URL]
 [URL="##DONATE_URL##"][img]https://i.imgur.com/nkJHit6.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/AteOLUU.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/8cQbEUV.png[/img][/URL]
+[SIZE="5"][B]Update / Dirty Flash[/B][/SIZE]
+[SIZE="3"]1. Reboot to Recovery
+2. Download the proper flashable ZIP for your device
+3. Flash the ROM
+4. Reboot to System and #KeepEvolving[/SIZE]
+
 
 [SIZE="1"][URL="##SCREENSHOT_ALBUM_URL##"]Screenshots[/URL] / [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"]Download[/URL]
 [URL="##DONATE_URL##"]Donate me![/URL] / [URL="https://t.me/EvolutionX"]Official Chat[/URL] / [URL="https://t.me/EvolutionX##DEVICE_CODENAME##"]Device Support[/URL][/SIZE]

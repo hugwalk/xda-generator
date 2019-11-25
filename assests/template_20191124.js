@@ -78,7 +78,7 @@ var template = `[CENTER]
  
 [SIZE="3"][B]DO NOT FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
 
-[img]https://i.imgur.com/YtvYmxb.png[/img]
+[img]https://i.imgur.com/u5tIlfT.png[/img]
 [SIZE="3"]1. Reboot to Recovery
 2. Download the proper flashable ZIP for your device
 3. Wipe Data/Cache/System when coming from non-AOSP ROMs

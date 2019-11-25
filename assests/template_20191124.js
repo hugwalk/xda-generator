@@ -91,23 +91,4 @@ var template = `[CENTER]
 [*][b]Kernel Source code:[/b] [url="##KERNEL_SOURCE_URL##"][url]##KERNEL_SOURCE_URL##[/url][/url]
 [*][b]ROM Developer:[/b] [url="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/url]
 [/list][/SIZE][/LEFT]
- 
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]Evolution X 3.3, ROM for the ##DEVICE_NAME##[/B][/SIZE]
- 
-[B][U]Contributors[/U][/B]
-[URL="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/URL], [URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL], [URL="https://forum.xda-developers.com/member.php?u=9008281"]peaktogoo[/URL], [URL="https://forum.xda-developers.com/member.php?u=7665334"]hugwalk[/URL]
-B]Source Code:[/B] [URL="https://github.com/Evolution-X"][url]https://github.com/Evolution-X[/url][/URL]
- 
-[B]ROM OS Version:[/B] 10.0 Ten
-[B]ROM Kernel:[/B] Linux 4.x
-[B]ROM Firmware Required:[/B] Unlocked Bootloader, TWRP/SHRP
-[B]Based On:[/B] AOSP
- 
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-[B]Current Stable Version:[/B] [url]https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##[/url]
-[B]Stable Release Date:[/B] 
- 
-[B]Created[/B] 
-[B]Last Updated[/B] `;
+`;

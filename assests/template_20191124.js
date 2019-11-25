@@ -1,5 +1,5 @@
 var template = `[CENTER]
-[IMG]https://github.com/Evolution-X/platform_manifest/raw/pie/EvoBanner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Evolution-X/platform_manifest/pie/EvoBanner.png[/IMG]
 [SIZE="5"][b][color=#0060FF]Evolution X 3.3 for the ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
  
 

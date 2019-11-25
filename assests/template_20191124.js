@@ -90,15 +90,14 @@ var template = `[CENTER]
 8. Flash Magisk (Optional)
 9. Reboot to System and #KeepEvolving[/SIZE]
 
-[URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/N3C09Do.png[/img][/URL]
-[URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/oNEPBFj.png[/img][/URL]
-[URL="##DONATE_URL##"][img]https://i.imgur.com/nkJHit6.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/AteOLUU.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/8cQbEUV.png[/img][/URL]
 [SIZE="5"][B]Update / Dirty Flash[/B][/SIZE]
 [SIZE="3"]1. Reboot to Recovery
 2. Download the proper flashable ZIP for your device
 3. Flash the ROM
 4. Reboot to System and #KeepEvolving[/SIZE]
 
+[URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/ZjXX76I.png[/img][/URL] [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/h4JIIUt.png[/img][/URL]
+[URL="##DONATE_URL##"][img]https://i.imgur.com/JBON20U.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/9dKRGuj.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/PZ6h5NN.png[/img][/URL]
 
 [SIZE="1"][URL="##SCREENSHOT_ALBUM_URL##"]Screenshots[/URL] / [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"]Download[/URL]
 [URL="##DONATE_URL##"]Donate me![/URL] / [URL="https://t.me/EvolutionX"]Official Chat[/URL] / [URL="https://t.me/EvolutionX##DEVICE_CODENAME##"]Device Support[/URL][/SIZE]

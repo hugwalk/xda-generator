@@ -109,8 +109,8 @@ var template = `[CENTER]
 [*][b]Android OS version:[/b] 10.0_r14
 [*][b]Security patch level:[/b] November 2019
 [*][b]Build author:[/b] [url="##XDA_URL##"]##NAME##[/url]
-[*][b]Source code:[/b] [url="https://github.com/EvoX-Temp"][url]https://github.com/EvoX-Temp[/url][/url]
-[*][b]Kernel Source code:[/b] [url="##KERNEL_SOURCE_URL##"][url]##KERNEL_SOURCE_URL##[/url][/url]
+[*][b]Source code:[/b] [url="https://github.com/Evolution-X"]https://github.com/Evolution-X[/url]
+[*][b]Kernel Source code:[/b] [url="##KERNEL_SOURCE_URL##"]##KERNEL_SOURCE_URL##[/url]
 [*][b]ROM Developer:[/b] [url="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/url]
 [/list][/SIZE][/LEFT]
 `;

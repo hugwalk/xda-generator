@@ -96,10 +96,10 @@ var template = `[CENTER]
 3. Flash the ROM
 4. Reboot to System and #KeepEvolving[/SIZE]
 
-[URL="##SCREENSHOT_ALBUM_URL##"][img]https://i.imgur.com/ZjXX76I.png[/img][/URL] [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/h4JIIUt.png[/img][/URL]
+[URL="https://imgur.com/gallery/SvmdfPb"][img]https://i.imgur.com/oDZONpB.png[/img][/URL][URL="https://imgur.com/gallery/c3QKAdp"][img]https://i.imgur.com/fmAkMrL.png[/img][/URL][URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/F2WF8Mx.png[/img][/URL]
 [URL="##DONATE_URL##"][img]https://i.imgur.com/JBON20U.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/9dKRGuj.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/PZ6h5NN.png[/img][/URL]
 
-[SIZE="1"][URL="##SCREENSHOT_ALBUM_URL##"]Screenshots[/URL] / [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"]Download[/URL]
+[SIZE="1"][URL="https://imgur.com/gallery/SvmdfPb"]Light Screenshots[/URL] / [URL="https://imgur.com/gallery/c3QKAdp"]Dark Screenshots[/URL] / [URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"]Download[/URL]
 [URL="##DONATE_URL##"]Donate me![/URL] / [URL="https://t.me/EvolutionX"]Official Chat[/URL] / [URL="https://t.me/EvolutionX##DEVICE_CODENAME##"]Device Support[/URL][/SIZE]
 
 [hr][/hr]

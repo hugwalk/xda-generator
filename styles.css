@@ -5,7 +5,7 @@
         width: 100%;
         margin: 0;
         background: #121212;
-        font-family: Roboto, "Google Sans";
+        font-family: Roboto, "Google Sans", sans-serif;
     }
     
     .card {
@@ -33,7 +33,7 @@
         color: #FFF;
         font-size: 24px;
         text-align: center;
-        font-family: "Google Sans", Roboto;
+        font-family: "Google Sans", Roboto, sans-serif;
         font-weight: 400;
     }
     /***Form part***/
@@ -99,7 +99,7 @@
         border: 0;
         outline: none;
         text-align: center;
-        font-family: "Google Sans", Roboto;
+        font-family: "Google Sans", Roboto, sans-serif;
         transition: .28s cubic-bezier(0.4, 0.0, 0.2, 1);
     }
     

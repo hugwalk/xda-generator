@@ -13,7 +13,6 @@ function doReplace() {
     const device_codename = qs('#device_codename').value;
     const name = qs('#name').value;
     const bugs = ifEmpty(qs('#bugs').value, 'You tell me');
-    const screenshot_album_url = ifEmpty(qs('#screenshot_album_url').value, 'https://imgur.com/a/6l0dMag');
     const donate_url = ifEmpty(qs('#donate_url').value, 'https://google.com');
     const xda_url = qs('#xda_url').value;
     const kernel_source_url = qs('#kernel_source_url').value;
@@ -23,15 +22,10 @@ function doReplace() {
         .replace(/##DEVICE_CODENAME##/g, device_codename)
         .replace(/##NAME##/g, name)
         .replace(/##BUGS##/g, bugs)
-        .replace(/##SCREENSHOT_ALBUM_URL##/g, screenshot_album_url)
         .replace(/##DONATE_URL##/g, donate_url)
         .replace(/##XDA_URL##/g, xda_url)
         .replace(/##KERNEL_SOURCE_URL##/g, kernel_source_url)
 }
-
-// qs('#generate').addEventListener('click', async() => {
-
-// });
 
 qs('#form').addEventListener('submit', (event) => {
     event.preventDefault();

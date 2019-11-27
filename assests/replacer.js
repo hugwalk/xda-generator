@@ -13,7 +13,7 @@ function doReplace() {
     const device_codename = qs('#device_codename').value;
     const name = qs('#name').value;
     const bugs = ifEmpty(qs('#bugs').value, 'You tell me');
-    const donate_url = ifEmpty(qs('#donate_url').value, 'https://google.com');
+    const donate_url = ifEmpty(qs('#donate_url').value, 'https://t.me/EvolutionX/');
     const xda_url = qs('#xda_url').value;
     const kernel_source_url = qs('#kernel_source_url').value;
 

@@ -20,6 +20,10 @@ var template = `[CENTER]
 @[URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL]
 @[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL]
 
+[B]- Special Thanks - [/B]
+
+@[URL="https://forum.xda-developers.com/member.php?u=7501576"]ProchyGaming[/URL]
+
 [I]Reach us on Twitter! [URL="https://twitter.com/EvolutionXROM"]@EvolutionXROM[/URL][/I][/SIZE][/CENTER]
 
 [img]https://i.imgur.com/RgqrlpK.png[/img]

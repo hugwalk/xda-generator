@@ -16,7 +16,7 @@ var template = `[CENTER]
 
 [B]- Team Evolution X - [/B]
 @[URL="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/URL]
-@[URL="https://forum.xda-developers.com/member.php?u=9008281"]peaktogoo[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=9008281"]peaktogoo (Now RealAkito)[/URL]
 @[URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL]
 @[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL]
 

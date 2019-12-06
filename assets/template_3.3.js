@@ -23,6 +23,9 @@ var template = `[CENTER]
 [B]- Special Thanks - [/B]
 
 @[URL="https://forum.xda-developers.com/member.php?u=7501576"]ProchyGaming[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=6549853"]blitzfire3[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=8879899"]bluejeans117[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=8065843"]DarkAngelGR[/URL]
 
 [I]Reach us on Twitter! [URL="https://twitter.com/EvolutionXROM"]@EvolutionXROM[/URL][/I][/SIZE][/CENTER]
 

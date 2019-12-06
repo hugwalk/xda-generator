@@ -84,8 +84,8 @@ var template = `[CENTER]
 
 [img]https://i.imgur.com/u5tIlfT.png[/img]
 [SIZE="5"][B]First Time Install / Clean Flash[/B][/SIZE]
-[SIZE="3"]1. Reboot to Recovery
-2. Download the proper flashable ZIP for your device
+[SIZE="3"]1. Download the proper flashable ZIP for your device
+2. Reboot to Recovery
 3. Wipe Data/Cache/System when coming from non-AOSP ROMs
 4. Flash the ROM
 5. Flash TWRP installer ZIP
@@ -97,8 +97,9 @@ var template = `[CENTER]
 [SIZE="5"][B]Update / Dirty Flash[/B][/SIZE]
 [SIZE="3"]1. Reboot to Recovery
 2. Download the proper flashable ZIP for your device
-3. Flash the ROM
-4. Reboot to System and #KeepEvolving[/SIZE]
+3. Reboot to Recovery
+4. Flash the ROM
+5. Reboot to System and #KeepEvolving[/SIZE]
 
 [URL="https://imgur.com/gallery/SvmdfPb"][img]https://i.imgur.com/oDZONpB.png[/img][/URL][URL="https://imgur.com/gallery/c3QKAdp"][img]https://i.imgur.com/fmAkMrL.png[/img][/URL][URL="https://sourceforge.net/projects/evolution-x/files/##DEVICE_CODENAME##"][img]https://i.imgur.com/F2WF8Mx.png[/img][/URL]
 [URL="##DONATE_URL##"][img]https://i.imgur.com/JBON20U.png[/img][/URL][URL="https://t.me/EvolutionX"][img]https://i.imgur.com/9dKRGuj.png[/img][/URL][URL="https://t.me/EvolutionX##DEVICE_CODENAME##"][img]https://i.imgur.com/PZ6h5NN.png[/img][/URL]

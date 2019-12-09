@@ -18,14 +18,12 @@ var template = `[CENTER]
 @[URL="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/URL]
 @[URL="https://forum.xda-developers.com/member.php?u=9008281"]peaktogoo (Now RealAkito)[/URL]
 @[URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL]
-@[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL]
 
 [B]- Special Thanks - [/B]
 
-@[URL="https://forum.xda-developers.com/member.php?u=7501576"]ProchyGaming[/URL]
-@[URL="https://forum.xda-developers.com/member.php?u=6549853"]blitzfire3[/URL]
-@[URL="https://forum.xda-developers.com/member.php?u=8879899"]bluejeans117[/URL]
-@[URL="https://forum.xda-developers.com/member.php?u=8065843"]DarkAngelGR[/URL]
+@[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL] - Graphic Designer
+@[URL="https://forum.xda-developers.com/member.php?u=7501576"]ProchyGaming[/URL] - Source Help
+@[URL="https://forum.xda-developers.com/member.php?u=8984156"]4PERTURE[/URL] - Social Media Managing
 
 [I]Reach us on Twitter! [URL="https://twitter.com/EvolutionXROM"]@EvolutionXROM[/URL][/I][/SIZE][/CENTER]
 

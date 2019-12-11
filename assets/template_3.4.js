@@ -1,6 +1,6 @@
 var template = `[CENTER]
 [IMG]https://raw.githubusercontent.com/Evolution-X/platform_manifest/pie/EvoBanner.png[/IMG]
-[SIZE="5"][b][color=#0060FF]Evolution X 3.3 for the ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
+[SIZE="5"][b][color=#0060FF]Evolution X 3.4 for the ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
 [CODE]/*
 * Your warranty is void. Or vaild, probably?
 *
@@ -112,8 +112,8 @@ var template = `[CENTER]
 
 [img]https://i.imgur.com/LU9gsrQ.png[/img][/CENTER]
 [LEFT][SIZE="3"][list]
-[*][b]Android OS version:[/b] 10.0_r14
-[*][b]Security patch level:[/b] November 2019
+[*][b]Android OS version:[/b] 10.0_r16
+[*][b]Security patch level:[/b] December 2019
 [*][b]Build author:[/b] [url="##XDA_URL##"]##NAME##[/url]
 [*][b]Source code:[/b] [url="https://github.com/Evolution-X"]https://github.com/Evolution-X[/url]
 [*][b]Kernel Source code:[/b] [url="##KERNEL_SOURCE_URL##"]##KERNEL_SOURCE_URL##[/url]

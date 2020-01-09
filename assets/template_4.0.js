@@ -90,11 +90,10 @@ Official Website: [URL="https://evolution-x.org/"]evolution-x.org[/URL][/I][/SIZ
 2. Reboot to Recovery
 3. Wipe Data/Cache/System when coming from non-AOSP ROMs
 4. Flash the ROM
-5. Flash TWRP installer ZIP
-6. Reboot to System
-7. Reboot to Recovery
-8. Flash Magisk (Optional)
-9. Reboot to System and #KeepEvolving[/SIZE]
+5. Reboot to System
+6. Reboot to Recovery
+7. Flash Magisk (Optional)
+8. Reboot to System and #KeepEvolving[/SIZE]
 
 [SIZE="5"][B]Update / Dirty Flash[/B][/SIZE]
 [SIZE="3"]1. Reboot to Recovery

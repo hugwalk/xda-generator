@@ -1,5 +1,5 @@
 var template = `[CENTER]
-[IMG]https://raw.githubusercontent.com/Evolution-X/manifest/ten/EvoBanner.png[/IMG]
+[IMG]https://i.imgur.com/FEmvEwZ.png[/IMG]
 [SIZE="5"][b][color=#0060FF]Evolution X 4.0 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
 
 [CODE]/*

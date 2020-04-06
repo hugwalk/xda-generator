@@ -1,20 +1,20 @@
 var template = `[CENTER]
 [IMG]https://i.imgur.com/FEmvEwZ.png[/IMG]
-[SIZE="5"][b][color=#0060FF]Evolution X 4.2 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
+[SIZE="5"][b][color=#0060FF]Evolution X 4.1.69 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
 
 [CODE]/*
-* Your warranty is void. Or vaild, probably?
+* Your warranty is void. Or valid, probably?
 *
 * I am not responsible for bricked devices, dead SD cards, Ebolation X,
 * thermonuclear war, or the current economic crisis caused by you following 
-* these directions. YOU are choosing to make these modificiations, and if 
+* these directions. YOU are choosing to make these modifications, and if 
 * you point your finger at me for messing up your device, I will LMAO at you.
 */[/CODE]
 
 [img]https://i.imgur.com/AzBiTvF.png[/img]
 [SIZE="5"][COLOR="#0060FF"][B]Living, Breaking, Keep Evolving. [/B][/COLOR][/SIZE]
 
-[SIZE="3"][B]Evolution X[/B] is a flashable custom ROM to bring a true Pixel feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest aosp sources![/SIZE]
+[SIZE="3"][B]Evolution X[/B] is a flashable custom ROM to bring a true Pixel-feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest AOSP sources![/SIZE]
 
 [B][color=#0060FF]- Team Evolution X - [/color][/B]
 @[URL="https://forum.xda-developers.com/member.php?u=4936496"]joeyhuab[/URL] (Founder & Lead Developer)
@@ -69,7 +69,7 @@ https://evolution-x.org/
 - Custom QS Footer Text
 - Custom QS Header Images
 - Gaming Mode Quick Settings Tile
-- QS Backround Image Blur
+- QS Background Image Blur
 - QS Opacity & Color Configs
 - Quick Pulldown (Left/Right)
 - Quick Settings Rows & Columns Customization
@@ -144,7 +144,7 @@ https://evolution-x.org/
 - Disable Device Identifier Restrictions
 - Doze Settings
 - Gaming Mode
-- Legacy App Scalling
+- Legacy App Scaling
 - Launch Music App On Headset Connection
 - Screenshot Type (Full/Drag)
 - Sensor Block Per Package

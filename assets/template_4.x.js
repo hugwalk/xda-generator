@@ -22,8 +22,7 @@ var template = `[CENTER]
 @[URL="https://forum.xda-developers.com/member.php?u=7125966"]AnierinB[/URL] (Project Specialist)
 
 [B][color=#0060FF]- Design - [/color][/B]
-@[URL="https://forum.xda-developers.com/member.php?u=7665334"]Hugwalk[/URL] (Lead Designer)
-@[URL="https://forum.xda-developers.com/member.php?u=10435351"]ecnivtwelve[/URL] (Designer)
+@[URL="https://forum.xda-developers.com/member.php?u=10435351"]ecnivtwelve[/URL] (Lead Designer)
 @[URL="https://forum.xda-developers.com/member.php?u=9633220"]MartonDev[/URL] (Website Designer)
 
 https://evolution-x.org/

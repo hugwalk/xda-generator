@@ -1,6 +1,6 @@
 var template = `[CENTER]
 [IMG]https://i.imgur.com/FEmvEwZ.png[/IMG]
-[SIZE="5"][b][color=#0060FF]Evolution X 4.1.69 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
+[SIZE="5"][b][color=#0060FF]Evolution X 4.20.2 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
 
 [CODE]/*
 * Your warranty is void. Or valid, probably?
@@ -190,9 +190,9 @@ https://evolution-x.org/
 
 [img]https://i.imgur.com/NzyZaVK.png[/img][/CENTER]
 [LEFT][list]
-[*][b]Evolution X Version:[/b] 4.2
-[*][b]Android OS Version:[/b] 10.0_r31
-[*][b]Security Patch Level:[/b] March 2020
+[*][b]Evolution X Version:[/b] 4.20.2
+[*][b]Android OS Version:[/b] 10.0_r33
+[*][b]Security Patch Level:[/b] April 2020
 [*][b]Build Author:[/b] [url="##XDA_URL##"]##NAME##[/url]
 [*][b]Source Code:[/b] [url="https://github.com/Evolution-X"]https://github.com/Evolution-X[/url]
 [*][b]Kernel Source Code:[/b] [url="##KERNEL_SOURCE_URL##"]##KERNEL_SOURCE_URL##[/url]

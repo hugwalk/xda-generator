@@ -1,6 +1,6 @@
 var template = `[CENTER]
 [IMG]https://i.imgur.com/FEmvEwZ.png[/IMG]
-[SIZE="5"][b][color=#0060FF]Evolution X 4.1.69 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
+[SIZE="5"][b][color=#0060FF]Evolution X 4.5 for ##DEVICE_NAME## [##DEVICE_CODENAME##][/color][/b][/SIZE]
 
 [CODE]/*
 * Your warranty is void. Or valid, probably?
@@ -32,126 +32,132 @@ https://evolution-x.org/
 [img]https://i.imgur.com/WAdbfjy.png[/img]
 [HIDE]
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Themes[/B][/COLOR][/I][/U][/SIZE]
-- 4 Statusbar Icon Styles
-- 5 Lock Screen Clock Styles
-- 6 System Icon Shapes
+- RGB Accent Picker
+- Dark Theme Styles (color Bucket)
 - 17 System Fonts
-- Color Bucket
+- 6 System Icon Shapes
+- 4 Statusbar Icon Styles
+- 2019 Pixel Live Wallpapers
 - Custom QS Header Images
-- Pixel 2019 Wallpapers
+- New Tint Style Toggle
 - QS Opacity & Color Configs
 - QS Backround Image Blur
-- RGB Accent Picker
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Statusbar[/B][/COLOR][/I][/U][/SIZE]
-- 4G/LTE Icon Toggle
-- 7 Battery Icon Styles
-- 7 Custom VoLTE Icons
-- Battery Percent Show/Hide Config
-- Brightness Control
-- Carrier Label Settings
 - Clock Options
+- Battery Bar
+- Carrier Label Settings
 - Network Traffic Activity
 - Rounded Corners Config
+- System UI Tuner
+- 7 Battery Icon Style
+- Battery Percent Show/Hide Config
+- Old Mobile Style Network Icons
+- 4G/LTE Icon Toggle
+- 7 Custom VoLTE Icons & Toggle
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Notifications[/B][/COLOR][/I][/U][/SIZE]
-- Blink Flashlight On Call
-- Edge Lighting
-- Force Close Notifications
-- In Call Vibrations
-- Kill App Button
+- Heads Up
+- R Style Notification Headers
+- Alert Slider Notification Toggle
 - Notification light Config
+- Pulse Edge Lighting
+- Force Close Notifications
+- Force Expanded Notification
+- Kill App Button
+- Notification Vibration Toggle
+- Blink Flashlight On Call
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Quick Settings[/B][/COLOR][/I][/U][/SIZE]
-- Battery Percentage Configs
-- Bottom Brightness Slider Toggle
-- Custom QS Footer Text
-- Custom QS Header Images
-- Gaming Mode Quick Settings Tile
-- QS Background Image Blur
-- QS Opacity & Color Configs
-- Quick Pulldown (Left/Right)
-- Quick Settings Rows & Columns Customization
-- Tile Titles Toggle
-- Toggles To Hide Misc Icons
+- Disable When Locked
+- Vibrate On Touch
+- Quick Pulldown (Right/Left)
+- Smart Pulldown
+- Hide Battery Icon
+- Notification Header Battery Precent Configs
+- Brightness Slider Configs
+- Quick Settings Layout Configs
+- QS Footer Text Toggle & Customizations
+- Settings Icon Toggle
+- Running Services Toggle
+- User Switcher Icon Toggle
+- QS Edit Icon Toggle
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Power Menu[/B][/COLOR][/I][/U][/SIZE]
-- Advanced Restart
-- Airplane
-- Flashlight
-- Lock Down
-- Logout
 - Restart
+- Advanced Restart
 - Screenshot
+- Flashlight
+- Airplane
 - Settings
+- Lock Down
 - Users
+- Logout 
 - Visibility On Lockscreen Configs
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Gestures[/B][/COLOR][/I][/U][/SIZE]
 - AOSP Gestures
+- Swipe To Screenshot
+- Status Bar Brightness Control
+- Screen Off Power Button Torch
+- Double Tap To Sleep Status Bar
+- Double Tap to Sleep Lockscreen
+- Toggle To Hide Navbar Pill
 - Back Gesture Height Config
 - Back Gesture Vibration Toggle
-- Double Tap to Sleep Lockscreen
-- Double Tap To Sleep Status Bar
 - Screen Off Gestures
-- Screen Off Power Button Torch
-- Status Bar Brightness Control
-- Swipe To Screenshot
-- Toggle To Hide Back Gesture Icon
-- Toggle To Hide Navbar Pill
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Lockscreen[/B][/COLOR][/I][/U][/SIZE]
-- Custom Clock & Date Fonts
-- Fingerprint Authentication Vibration Toggle
-- FOD Icon Picker
-- FOD Pressed State Icons
-- FOD Recognizing Animations
-- Lock Icon Toggle
-- Lock Screen Music Visualizer
-- Lock Screen Media Artwork Configs
-- Lock Screen Shortcuts
 - Pocket Detection
-- Pressed FOD Icon Picker
-- Status bar visibility toggle
+- Fingerprint Authentication Vibration Toggle
+- Charging Info
+- Lock Screen Shortcuts
+- Status bar Visibility Toggle
+- Lock Icon Toggle
+- Custom Clock & Date Fonts/Widgets
+- Owner Info Configs
+- FOD Icon Picker
+- FOD Pressed State Icon's
+- FOD Recognizing Animations
+- Lock Screen Media Artwork/Notification Configs
+- Lock Screen Music Visualizer
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Navigation[/B][/COLOR][/I][/U][/SIZE]
+- Nav Bar Disable/Enable Toggle
+- Nav Bar Tuner
 - Invert Layout
-- Navigation Bar Hide/Show Toggle
-- Navigation Bar Tuner
-
-[SIZE="3"][U][I][COLOR="#0060FF"][B]Hardware Buttons[/B][/COLOR][/I][/U][/SIZE]
-- Power Menu Customization
-- Volume Rocker Cursor Control
-- Volume Rocker Playback Control
+- Volume Key Answer
 - Volume Rocker Wake
+- Volume Rocker Playback Control
+- Volume Rocker Cursor Control
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Animations[/B][/COLOR][/I][/U][/SIZE]
-- Disable Transition Animations
-- ListView Animations
-- QS Tile Animation Duration & Interpolator configs
-- QS Tile Animations (Flip/Rotate)
+- Disable Transition Animations Toggle
 - Screen Off Animations
 - Scrolling Cache Configs
+- QS Tile Animations (Flip/Rotate)
+- QS Tile Animation Duration & Interpolator configs
+- ListView Animations 
 - System Animation Configs
 
 [SIZE="3"][U][I][COLOR="#0060FF"][B]Miscellaneous[/B][/COLOR][/I][/U][/SIZE]
-- Accidental Wake Up Prevention
-- Alarm Blocker
+- Gaming Mode
+- Launch Music App On Headset Connection
+- Wake On Charge
 - Charging Animation
+- Screenshot Type (Full/Drag)
 - Dashboard Condition/Suggestion Toggle
+- Doze Brightness Configs
 - Default USB Config
 - Disable Device Identifier Restrictions
-- Doze Settings
-- Gaming Mode
-- Legacy App Scaling
-- Launch Music App On Headset Connection
-- Screenshot Type (Full/Drag)
+- Accidental Wake Up Prevention
 - Sensor Block Per Package
 - Signature Spoofing Support
-- Smart Charging
 - Time In State Monitor
-- Wakelock Blocker
-- Wake On Charge[/HIDE]
+- Doze Settings
+- Legacy App Scalling
+- Alarm Blocker
+- Wakelock Blocker[/HIDE]
 
 [img]https://i.imgur.com/A5dQFGK.png[/img]
 ##BUGS##
@@ -190,9 +196,9 @@ https://evolution-x.org/
 
 [img]https://i.imgur.com/NzyZaVK.png[/img][/CENTER]
 [LEFT][list]
-[*][b]Evolution X Version:[/b] 4.2
-[*][b]Android OS Version:[/b] 10.0_r31
-[*][b]Security Patch Level:[/b] March 2020
+[*][b]Evolution X Version:[/b] 4.5
+[*][b]Android OS Version:[/b] 10.0_r40
+[*][b]Security Patch Level:[/b] July 2020
 [*][b]Build Author:[/b] [url="##XDA_URL##"]##NAME##[/url]
 [*][b]Source Code:[/b] [url="https://github.com/Evolution-X"]https://github.com/Evolution-X[/url]
 [*][b]Kernel Source Code:[/b] [url="##KERNEL_SOURCE_URL##"]##KERNEL_SOURCE_URL##[/url]
